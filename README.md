@@ -1,1 +1,2 @@
 # Facial-keypoints-detection
+A deep CNN was developed for solving the task of facial keypoint detection which is relevant for many practical uses such as biometric identification. The goal of this project was to try different CNN architectures to find the model that best predicts facial keypoint positions on a test dataset. A predefined CNNs was used that have been shown to perform well for the task of image classification. Further, optimized the hyperparameters and try various regularization approaches to prevent the model from overfitting.
